@@ -1,0 +1,3423 @@
+[
+{
+    "model": "webapp.state",
+    "pk": 1,
+    "fields": {
+        "state": "Abia",
+        "coord": "SRID=4326;POINT (5.43 7.52)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 2,
+    "fields": {
+        "state": "Abuja",
+        "coord": "SRID=4326;POINT (9.07 7.48)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 3,
+    "fields": {
+        "state": "Adamawa",
+        "coord": "SRID=4326;POINT (9.33 12.44)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 4,
+    "fields": {
+        "state": "Akwa Ibom",
+        "coord": "SRID=4326;POINT (4.93 7.87)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 5,
+    "fields": {
+        "state": "Anambra",
+        "coord": "SRID=4326;POINT (6.28 7.01)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 6,
+    "fields": {
+        "state": "Bauchi",
+        "coord": "SRID=4326;POINT (10.31 9.85)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 7,
+    "fields": {
+        "state": "Bayelsa",
+        "coord": "SRID=4326;POINT (4.87 5.9)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 8,
+    "fields": {
+        "state": "Benue",
+        "coord": "SRID=4326;POINT (7.35 8.83)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 9,
+    "fields": {
+        "state": "Borno",
+        "coord": "SRID=4326;POINT (12.12 13.17)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 10,
+    "fields": {
+        "state": "Cross River",
+        "coord": "SRID=4326;POINT (6.16 8.66)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 11,
+    "fields": {
+        "state": "Delta",
+        "coord": "SRID=4326;POINT (5.53 5.9)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 12,
+    "fields": {
+        "state": "Ebonyi",
+        "coord": "SRID=4326;POINT (6.18 7.96)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 13,
+    "fields": {
+        "state": "Edo",
+        "coord": "SRID=4326;POINT (6.54 5.9)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 14,
+    "fields": {
+        "state": "Ekiti",
+        "coord": "SRID=4326;POINT (7.67 5.31)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 15,
+    "fields": {
+        "state": "Enugu",
+        "coord": "SRID=4326;POINT (6.45 7.51)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 16,
+    "fields": {
+        "state": "Gombe",
+        "coord": "SRID=4326;POINT (10.28 11.17)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 17,
+    "fields": {
+        "state": "Imo",
+        "coord": "SRID=4326;POINT (5.52 6.92)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 18,
+    "fields": {
+        "state": "Jigawa",
+        "coord": "SRID=4326;POINT (12.45 9.720000000000001)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 19,
+    "fields": {
+        "state": "Kaduna",
+        "coord": "SRID=4326;POINT (10.52 7.43)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 20,
+    "fields": {
+        "state": "Kano",
+        "coord": "SRID=4326;POINT (12 8.52)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 21,
+    "fields": {
+        "state": "Katsina",
+        "coord": "SRID=4326;POINT (12.99 7.61)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 22,
+    "fields": {
+        "state": "Kebbi",
+        "coord": "SRID=4326;POINT (11.68 4.07)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 23,
+    "fields": {
+        "state": "Kogi",
+        "coord": "SRID=4326;POINT (7.56 6.58)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 24,
+    "fields": {
+        "state": "Kwara",
+        "coord": "SRID=4326;POINT (8.98 4.56)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 25,
+    "fields": {
+        "state": "Lagos",
+        "coord": "SRID=4326;POINT (6.45 3.4)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 26,
+    "fields": {
+        "state": "Nasarawa",
+        "coord": "SRID=4326;POINT (8.550000000000001 7.71)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 27,
+    "fields": {
+        "state": "Niger",
+        "coord": "SRID=4326;POINT (9.08 8.68)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 28,
+    "fields": {
+        "state": "Ogun",
+        "coord": "SRID=4326;POINT (6.91 3.26)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 29,
+    "fields": {
+        "state": "Ondo",
+        "coord": "SRID=4326;POINT (7.09 4.84)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 30,
+    "fields": {
+        "state": "Osun",
+        "coord": "SRID=4326;POINT (7.59 4.56)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 31,
+    "fields": {
+        "state": "Oyo",
+        "coord": "SRID=4326;POINT (7.84 3.93)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 32,
+    "fields": {
+        "state": "Plateau",
+        "coord": "SRID=4326;POINT (9.24 9.720000000000001)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 33,
+    "fields": {
+        "state": "Rivers",
+        "coord": "SRID=4326;POINT (4.86 6.92)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 34,
+    "fields": {
+        "state": "Sokoto",
+        "coord": "SRID=4326;POINT (13.06 5.25)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 35,
+    "fields": {
+        "state": "Taraba",
+        "coord": "SRID=4326;POINT (7.99 10.98)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 36,
+    "fields": {
+        "state": "Yobe",
+        "coord": "SRID=4326;POINT (12.19 11.71)"
+    }
+},
+{
+    "model": "webapp.state",
+    "pk": 37,
+    "fields": {
+        "state": "Zamfara",
+        "coord": "SRID=4326;POINT (12.18 6.24)"
+    }
+},
+{
+    "model": "webapp.subscriptiontype",
+    "pk": 1,
+    "fields": {
+        "type": "email"
+    }
+},
+{
+    "model": "webapp.subscriptiontype",
+    "pk": 2,
+    "fields": {
+        "type": "sms"
+    }
+},
+{
+    "model": "webapp.subscriptiontype",
+    "pk": 3,
+    "fields": {
+        "type": "Twitter DM"
+    }
+},
+{
+    "model": "webapp.subscriptiontype",
+    "pk": 4,
+    "fields": {
+        "type": "callback"
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 1,
+    "fields": {
+        "location": "Lagos",
+        "alias": "lag, eko, gidi",
+        "coord": "SRID=4326;POINT (6.453055 3.395833)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 2,
+    "fields": {
+        "location": "Abia",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.533333 7.883333)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 3,
+    "fields": {
+        "location": "Abuja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.066666 7.483333)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 4,
+    "fields": {
+        "location": "Adamawa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.325049 12.43805)",
+        "state": 3
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 5,
+    "fields": {
+        "location": "Akwa Ibom",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.929986 7.87216)",
+        "state": 4
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 6,
+    "fields": {
+        "location": "Anambra",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.275765 7.006839)",
+        "state": 5
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 7,
+    "fields": {
+        "location": "Bauchi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.30982 9.845172)",
+        "state": 6
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 8,
+    "fields": {
+        "location": "Bayelsa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.867776 5.898713)",
+        "state": 7
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 9,
+    "fields": {
+        "location": "Benue",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.630850000000001 9.799251999999999)",
+        "state": 8
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 10,
+    "fields": {
+        "location": "Borno",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.12052 13.17403)",
+        "state": 9
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 11,
+    "fields": {
+        "location": "Cross River",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.498037 8.902958999999999)",
+        "state": 10
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 12,
+    "fields": {
+        "location": "Delta state",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.532462 5.898714)",
+        "state": 11
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 13,
+    "fields": {
+        "location": "Ebonyi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.177973 7.959286)",
+        "state": 12
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 14,
+    "fields": {
+        "location": "Edo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.54381 5.898713)",
+        "state": 13
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 15,
+    "fields": {
+        "location": "Ekiti",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.665581 5.31025)",
+        "state": 14
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 16,
+    "fields": {
+        "location": "Enugu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.452666 7.510333)",
+        "state": 15
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 17,
+    "fields": {
+        "location": "Gombe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.2824 11.17479)",
+        "state": 16
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 18,
+    "fields": {
+        "location": "Imo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.521453 6.920913)",
+        "state": 17
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 19,
+    "fields": {
+        "location": "Jigawa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.62124 8.970081)",
+        "state": 18
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 20,
+    "fields": {
+        "location": "Kaduna",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.51666 7.433333)",
+        "state": 19
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 21,
+    "fields": {
+        "location": "Kano",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12 8.516667)",
+        "state": 20
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 22,
+    "fields": {
+        "location": "Katsina",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.99302 7.606163)",
+        "state": 21
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 23,
+    "fields": {
+        "location": "Kebbi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (11.67812 4.069545)",
+        "state": 22
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 24,
+    "fields": {
+        "location": "Kogi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.739767 6.74609)",
+        "state": 23
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 25,
+    "fields": {
+        "location": "Kwara",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.984799000000001 4.562442)",
+        "state": 24
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 26,
+    "fields": {
+        "location": "Nasarawa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.547469 7.7118)",
+        "state": 26
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 27,
+    "fields": {
+        "location": "Niger",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.21554 5.39396)",
+        "state": 27
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 28,
+    "fields": {
+        "location": "Ogun",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.909833 3.258362)",
+        "state": 28
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 29,
+    "fields": {
+        "location": "Ondo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.088721 4.838763)",
+        "state": 29
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 30,
+    "fields": {
+        "location": "Osun",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.587584 4.562442)",
+        "state": 30
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 31,
+    "fields": {
+        "location": "Oyo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.837154 3.934652)",
+        "state": 31
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 32,
+    "fields": {
+        "location": "Plateau",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.235080999999999 9.723267)",
+        "state": 32
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 33,
+    "fields": {
+        "location": "Rivers state",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.858076 6.920913)",
+        "state": 33
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 34,
+    "fields": {
+        "location": "Sokoto",
+        "alias": "",
+        "coord": "SRID=4326;POINT (13.05702 5.245744)",
+        "state": 34
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 35,
+    "fields": {
+        "location": "Taraba",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.999069 11.06078)",
+        "state": 35
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 36,
+    "fields": {
+        "location": "Yobe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.18714 11.70682)",
+        "state": 36
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 37,
+    "fields": {
+        "location": "Zamfara",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.18441 6.237594)",
+        "state": 37
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 38,
+    "fields": {
+        "location": "Ikorodu road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.549607 3.366939)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 39,
+    "fields": {
+        "location": "Lagos Ibadan express way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.616794 3.365213)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 40,
+    "fields": {
+        "location": "Mobolaji Bank Anthony",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.583814 3.358433)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 41,
+    "fields": {
+        "location": "Rufai street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.45706 3.349699)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 42,
+    "fields": {
+        "location": "Lagos Badagry road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.440209 3.351774)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 43,
+    "fields": {
+        "location": "Lagos Abeokuta Express Way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.635019 3.301842)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 44,
+    "fields": {
+        "location": "Agege motor road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.559949 3.350033)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 45,
+    "fields": {
+        "location": "Abeokuta ibadan road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.20792 3.476759)",
+        "state": 28
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 46,
+    "fields": {
+        "location": "Eko bridge",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.479614 3.370163)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 47,
+    "fields": {
+        "location": "Apapa road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.466447 3.36387)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 48,
+    "fields": {
+        "location": "Ijora cause way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.469548 3.373462)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 49,
+    "fields": {
+        "location": "Yaya street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.589571 3.307169)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 50,
+    "fields": {
+        "location": "Okooba road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.637215 3.312748)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 51,
+    "fields": {
+        "location": "Omotoye street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.627693 3.311261)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 52,
+    "fields": {
+        "location": "Akeju  street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.537389 3.37076)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 54,
+    "fields": {
+        "location": "Adeyemi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.525535 3.354809)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 55,
+    "fields": {
+        "location": "Afariogun street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.031494 38.73253)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 56,
+    "fields": {
+        "location": "Olaiya street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.459793 3.180161)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 58,
+    "fields": {
+        "location": "Oshundeyi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.562854 3.33323)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 59,
+    "fields": {
+        "location": "Mafoluku",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.556833 3.33055)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 60,
+    "fields": {
+        "location": "Joy avenue",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.548617 3.330071)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 61,
+    "fields": {
+        "location": "Olutosin ajayi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.602473 3.35456)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 62,
+    "fields": {
+        "location": "Olateju street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.448498 3.457111)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 63,
+    "fields": {
+        "location": "Alhaji otta street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.537471 3.357887)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 65,
+    "fields": {
+        "location": "Oladapo street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.562457 3.328069)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 66,
+    "fields": {
+        "location": "Ilupeju street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.634199 3.300616)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 67,
+    "fields": {
+        "location": "Akamo street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.547878 3.359473)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 68,
+    "fields": {
+        "location": "Kalesanwo street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.538323 3.348522)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 69,
+    "fields": {
+        "location": "Olasonde street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.536848 3.345045)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 72,
+    "fields": {
+        "location": "Okearin street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.538753 3.359821)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 73,
+    "fields": {
+        "location": "John street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.460913 3.385534)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 75,
+    "fields": {
+        "location": "Shanu street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.539774 3.382475)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 76,
+    "fields": {
+        "location": "Olawaiye street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.447874 3.345176)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 77,
+    "fields": {
+        "location": "Adegbola street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.571569 3.263422)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 78,
+    "fields": {
+        "location": "independence street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.599982 3.337138)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 79,
+    "fields": {
+        "location": "Balogun street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.457654 3.384821)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 80,
+    "fields": {
+        "location": "Araromi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.531354 3.37745)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 81,
+    "fields": {
+        "location": "Allen avenue",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.601576 3.351961)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 83,
+    "fields": {
+        "location": "Owodunni street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.50566 3.390314)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 84,
+    "fields": {
+        "location": "Majekodunmi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.524004 3.339462)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 85,
+    "fields": {
+        "location": "Adenubi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.597596 3.350528)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 86,
+    "fields": {
+        "location": "Omotayo street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.599784 3.350963)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 87,
+    "fields": {
+        "location": "Awofeso street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.538339 3.370798)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 89,
+    "fields": {
+        "location": "Oguntolu street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.536672 3.371718)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 90,
+    "fields": {
+        "location": "Ogunaike street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.58525 3.351726)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 91,
+    "fields": {
+        "location": "Akinremi street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.622631 3.309267)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 92,
+    "fields": {
+        "location": "Third Mainland",
+        "alias": "Third Axial, 3rd mainland brid",
+        "coord": "SRID=4326;POINT (6.502189 3.402141)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 93,
+    "fields": {
+        "location": "Opebi road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.591899 3.358393)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 94,
+    "fields": {
+        "location": "Herbert Macauley",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.500774 3.377655)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 95,
+    "fields": {
+        "location": "Lekki express",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.434036 3.491024)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 97,
+    "fields": {
+        "location": "Murtala Muhammed Way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.483228 3.382445)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 98,
+    "fields": {
+        "location": "Iyana isolo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.530383 3.34387)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 100,
+    "fields": {
+        "location": "Ilupeju",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.564488 3.356525)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 101,
+    "fields": {
+        "location": "Ikeja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.589866 3.347707)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 102,
+    "fields": {
+        "location": "alausa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.615774 3.360934)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 103,
+    "fields": {
+        "location": "apapa expressway",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.466447 3.36387)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 104,
+    "fields": {
+        "location": "Ketu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.598226 3.386481)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 105,
+    "fields": {
+        "location": "Funsho Williams",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.486913 3.364262)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 106,
+    "fields": {
+        "location": "isolo road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.530383 3.34387)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 107,
+    "fields": {
+        "location": "Idimu road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.594259 3.287828)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 108,
+    "fields": {
+        "location": "Ipaja road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.625236 3.313408)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 109,
+    "fields": {
+        "location": "Alimosho road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.611557 3.30085)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 110,
+    "fields": {
+        "location": "Pipeline road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.95124 77.55224)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 112,
+    "fields": {
+        "location": "Ajuwon",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.674849 3.348219)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 113,
+    "fields": {
+        "location": "Iju road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.63656 3.323811)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 114,
+    "fields": {
+        "location": "Okearo Agbado road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.686848 3.31283)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 115,
+    "fields": {
+        "location": "Coker road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.55202 3.361892)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 116,
+    "fields": {
+        "location": "Ilupeju Bye-pass",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.545376 3.359155)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 117,
+    "fields": {
+        "location": "Town Planning Way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.556932 3.35962)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 118,
+    "fields": {
+        "location": "Oshodi road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.556502 3.347864)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 119,
+    "fields": {
+        "location": "Murtala Muhammed International",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.574722 3.318611)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 121,
+    "fields": {
+        "location": "Opebi Link road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.584519 3.361242)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 123,
+    "fields": {
+        "location": "Alfa Nla street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.6201696 3.3202235)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 124,
+    "fields": {
+        "location": "Akanni Doherty street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.613792 3.332068)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 125,
+    "fields": {
+        "location": "Jibowu street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.664676 3.302137)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 126,
+    "fields": {
+        "location": "Abebe Village",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.481312 3.363589)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 127,
+    "fields": {
+        "location": "Jimoh Odutola road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.480073 3.35429)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 128,
+    "fields": {
+        "location": "Coker Village road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.472538 3.331829)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 129,
+    "fields": {
+        "location": "Festac Bridge",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.471376 3.31104)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 130,
+    "fields": {
+        "location": "Amuwo Okota road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.499978 3.304759)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 131,
+    "fields": {
+        "location": "Okota Palace way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.505798 3.302019)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 132,
+    "fields": {
+        "location": "Okota road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.516551 3.319166)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 133,
+    "fields": {
+        "location": "Isheri Oshun road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.525257 3.294129)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 134,
+    "fields": {
+        "location": "Tejuosho",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.506322 3.367367)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 135,
+    "fields": {
+        "location": "Adeola Odeku",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.430542 3.416341)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 136,
+    "fields": {
+        "location": "Akin Adesola",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.431108 3.423805)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 137,
+    "fields": {
+        "location": "Akin Olugbade",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.430605 3.422484)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 138,
+    "fields": {
+        "location": "Adeyemo Alakija",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.436459 3.424881)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 139,
+    "fields": {
+        "location": "Kofo Abayomi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.435568 3.413663)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 140,
+    "fields": {
+        "location": "Idowu Martins",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.432746 3.419895)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 141,
+    "fields": {
+        "location": "Sanusi Fafunwa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.431138 3.426862)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 142,
+    "fields": {
+        "location": "Tiamiyu Savage",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.424617 3.42682)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 143,
+    "fields": {
+        "location": "Adetokunbo Ademola",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.43544 3.430626)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 144,
+    "fields": {
+        "location": "Ajose Adeogun",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.431022 3.435586)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 145,
+    "fields": {
+        "location": "Ligali Ayorinde",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.428565 3.44097)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 146,
+    "fields": {
+        "location": "Ozumba Mbadiwe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.43616 3.41646)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 147,
+    "fields": {
+        "location": "Bishop Aboyade Cole",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.434338 3.435023)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 148,
+    "fields": {
+        "location": "Balarabe Musa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.436733 3.436797)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 149,
+    "fields": {
+        "location": "Samuel Manuwa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.436804 3.435746)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 150,
+    "fields": {
+        "location": "Sokoto Bembe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.435452 3.433046)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 151,
+    "fields": {
+        "location": "Festival road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.435452 3.433046)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 152,
+    "fields": {
+        "location": "Admiralty Way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.447562 3.467252)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 153,
+    "fields": {
+        "location": "Adeniji Adele road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.465133 3.390976)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 154,
+    "fields": {
+        "location": "Ring road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.446135 3.395395)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 155,
+    "fields": {
+        "location": "Muri Okunola",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.432112 3.434798)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 156,
+    "fields": {
+        "location": "Molade Okoya",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.430347 3.435256)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 157,
+    "fields": {
+        "location": "Bashorun road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.536283 3.378972)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 158,
+    "fields": {
+        "location": "Akin Ogunlewe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.425973 3.439185)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 159,
+    "fields": {
+        "location": "Etim Inyang crescent",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.433147 3.436467)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 160,
+    "fields": {
+        "location": "Mohammed Marwa way",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.440135 3.474514)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 161,
+    "fields": {
+        "location": "Adebayo Doherty",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.441173 3.463991)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 163,
+    "fields": {
+        "location": "western avenue",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.516615 3.365088)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 164,
+    "fields": {
+        "location": "iyana ipaja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.619667 3.301069)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 165,
+    "fields": {
+        "location": "ipaja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.619824 3.301587)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 166,
+    "fields": {
+        "location": "Oba akran",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.614166 3.335757)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 167,
+    "fields": {
+        "location": "Adekunle",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.494257 3.379474)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 168,
+    "fields": {
+        "location": "Adeniji",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.456083 3.408016)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 169,
+    "fields": {
+        "location": "Agbado",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.680512 3.321449)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 170,
+    "fields": {
+        "location": "Agege",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.615072 3.324764)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 172,
+    "fields": {
+        "location": "Akute",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.660022 3.329216)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 174,
+    "fields": {
+        "location": "Alaka",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.507253 3.383616)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 175,
+    "fields": {
+        "location": "Anthony village",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.563335 3.367229)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 177,
+    "fields": {
+        "location": "baracks road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.61447 3.25563)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 179,
+    "fields": {
+        "location": "Costain",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.459675 3.206408)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 180,
+    "fields": {
+        "location": "Dopemu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.616898 3.31285)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 181,
+    "fields": {
+        "location": "Ebute meta",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.499343 3.38022)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 182,
+    "fields": {
+        "location": "Egbeda",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.591947 3.289574)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 183,
+    "fields": {
+        "location": "Fadeyi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.601897 3.349045)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 184,
+    "fields": {
+        "location": "Festac",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.471375 3.311039)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 185,
+    "fields": {
+        "location": "First round about",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.432714 3.482144)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 187,
+    "fields": {
+        "location": "Idimu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.577724 3.28239)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 188,
+    "fields": {
+        "location": "Ifako-Agege",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.642621 3.322602)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 189,
+    "fields": {
+        "location": "Iganmu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.484631 3.351486)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 190,
+    "fields": {
+        "location": "Ijora",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.469548 3.373462)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 191,
+    "fields": {
+        "location": "Iju",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.63656 3.323811)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 192,
+    "fields": {
+        "location": "Ikeja GRA",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.580512 3.351486)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 193,
+    "fields": {
+        "location": "Ikeja street",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.528324 3.32431)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 194,
+    "fields": {
+        "location": "Ikoyi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.45 3.433333)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 195,
+    "fields": {
+        "location": "Isheri",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.638472 3.355932)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 197,
+    "fields": {
+        "location": "Isolo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.529962 3.331984)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 198,
+    "fields": {
+        "location": "iyana Oworo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.551851 3.396704)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 199,
+    "fields": {
+        "location": "Iyana-ipaja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.619667 3.301069)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 200,
+    "fields": {
+        "location": "Jibowu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.664676 3.302137)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 202,
+    "fields": {
+        "location": "Lekki",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.46347 3.718124)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 203,
+    "fields": {
+        "location": "Maryland bus",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.576421 3.365344)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 204,
+    "fields": {
+        "location": "Mile 12",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.612164 3.401897)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 205,
+    "fields": {
+        "location": "Mile 2",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.459444 3.31129)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 206,
+    "fields": {
+        "location": "moshalashi bus",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.591505 3.305299)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 207,
+    "fields": {
+        "location": "Mowe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.755306 3.412256)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 208,
+    "fields": {
+        "location": "Mushin",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.519892 3.345963)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 209,
+    "fields": {
+        "location": "Obalende",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.448844 3.406695)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 210,
+    "fields": {
+        "location": "Obanikoro",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.547917 3.369466)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 211,
+    "fields": {
+        "location": "Ojota",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.58338 3.380429)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 212,
+    "fields": {
+        "location": "Ojuelegba",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.509522 3.366173)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 213,
+    "fields": {
+        "location": "Okota",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.499978 3.304759)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 214,
+    "fields": {
+        "location": "Onipan",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.53275 3.367431)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 215,
+    "fields": {
+        "location": "Opebi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.589197 3.361324)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 216,
+    "fields": {
+        "location": "opebi round",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.595997 3.354793)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 217,
+    "fields": {
+        "location": "Oshodi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.553963 3.336373)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 218,
+    "fields": {
+        "location": "Palmgroove",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.541448 3.367431)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 219,
+    "fields": {
+        "location": "Palmgrove",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.541448 3.367431)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 220,
+    "fields": {
+        "location": "Papa ajao",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.537947 3.34141)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 221,
+    "fields": {
+        "location": "Sabo gar",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.50617 3.378189)",
+        "state": 20
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 222,
+    "fields": {
+        "location": "Salvation bus",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.590567 3.362618)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 224,
+    "fields": {
+        "location": "Shomolu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.546362 3.389944)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 225,
+    "fields": {
+        "location": "National Stadium",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.497186 3.364714)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 226,
+    "fields": {
+        "location": "Surulere",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.505924 3.351486)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 227,
+    "fields": {
+        "location": "Victoria Island",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.428055 3.421944)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 228,
+    "fields": {
+        "location": "Yaba",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.50837 3.384247)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 229,
+    "fields": {
+        "location": "Yaba railway",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.484227 3.381078)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 230,
+    "fields": {
+        "location": "CMS",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.3 50.23333)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 231,
+    "fields": {
+        "location": "Idumota",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.458535 3.387129)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 232,
+    "fields": {
+        "location": "Marina road",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.447199 3.351947)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 234,
+    "fields": {
+        "location": "Bode Thomas",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.489252 3.358009)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 235,
+    "fields": {
+        "location": "mm2",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.574722 3.318611)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 236,
+    "fields": {
+        "location": "Ajeromi-Ifelodun",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.444838 3.333855)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 237,
+    "fields": {
+        "location": "Alimosho",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.610556 3.295833)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 238,
+    "fields": {
+        "location": "Amuwo-Odofin",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.429302 3.268422)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 239,
+    "fields": {
+        "location": "Apapa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.45 3.366667)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 240,
+    "fields": {
+        "location": "Badagry",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.416667 2.883333)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 241,
+    "fields": {
+        "location": "Epe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.583333 3.983333)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 242,
+    "fields": {
+        "location": "Eti-Osa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.458985 3.601521)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 243,
+    "fields": {
+        "location": "Ibeju",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.496267 3.596457)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 244,
+    "fields": {
+        "location": "Ifako",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.684968 3.288546)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 245,
+    "fields": {
+        "location": "Ikorodu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.6 3.5)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 246,
+    "fields": {
+        "location": "Kosofe",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.598781 3.409463)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 247,
+    "fields": {
+        "location": "Lagos island",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.452404 3.396854)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 248,
+    "fields": {
+        "location": "Lagos Mainland",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.50837 3.384247)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 249,
+    "fields": {
+        "location": "Ojo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.466667 3.183333)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 250,
+    "fields": {
+        "location": "Ajegunle",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.520419 3.349473)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 251,
+    "fields": {
+        "location": "Ikotun",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.554424 3.265907)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 252,
+    "fields": {
+        "location": "Ebute-Metta",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.48572 3.388029)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 253,
+    "fields": {
+        "location": "Ogudu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.580166 3.386173)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 254,
+    "fields": {
+        "location": "Gwagwalada",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.936696 7.092487)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 255,
+    "fields": {
+        "location": "Abaji",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.936696 7.092487)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 256,
+    "fields": {
+        "location": "Kuje",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.924054 7.221468)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 257,
+    "fields": {
+        "location": "Bwari",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.276267000000001 7.385722)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 258,
+    "fields": {
+        "location": "Kwali",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.846976 7.0606)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 259,
+    "fields": {
+        "location": "Aba",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.116667 7.366667)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 260,
+    "fields": {
+        "location": "Arochukwu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.383333 7.916667)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 261,
+    "fields": {
+        "location": "Bende",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.557043 7.630401)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 262,
+    "fields": {
+        "location": "Ngwa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.142029 7.394882)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 263,
+    "fields": {
+        "location": "Ohafia",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.616667 7.833333)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 264,
+    "fields": {
+        "location": "Ugwunagbo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.998082 7.330053)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 265,
+    "fields": {
+        "location": "Ukwa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.978633 7.222142)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 266,
+    "fields": {
+        "location": "Umuahia",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.533333 7.483333)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 275,
+    "fields": {
+        "location": "Yola",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.203495999999999 12.49539)",
+        "state": 3
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 276,
+    "fields": {
+        "location": "Uyo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.05 7.933333)",
+        "state": 4
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 277,
+    "fields": {
+        "location": "Awka",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.206944 7.067778)",
+        "state": 5
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 278,
+    "fields": {
+        "location": "Yenagoa",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.895199 6.290714)",
+        "state": 7
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 279,
+    "fields": {
+        "location": "Makurdi",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.730556 8.536111)",
+        "state": 8
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 280,
+    "fields": {
+        "location": "Maiduguri",
+        "alias": "",
+        "coord": "SRID=4326;POINT (11.833333 13.15)",
+        "state": 9
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 281,
+    "fields": {
+        "location": "Calabar",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.95 8.324999999999999)",
+        "state": 10
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 282,
+    "fields": {
+        "location": "Asaba",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.183333 6.75)",
+        "state": 11
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 283,
+    "fields": {
+        "location": "Abakaliki",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.333333 8.1)",
+        "state": 12
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 284,
+    "fields": {
+        "location": "Benin",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.33908 5.626482)",
+        "state": 13
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 285,
+    "fields": {
+        "location": "Owerri",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.483333 7.033333)",
+        "state": 17
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 286,
+    "fields": {
+        "location": "Dutse",
+        "alias": "",
+        "coord": "SRID=4326;POINT (11.791413 9.324308)",
+        "state": 18
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 287,
+    "fields": {
+        "location": "Lokoja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.808797 6.737399)",
+        "state": 23
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 288,
+    "fields": {
+        "location": "Ilorin",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.491656000000001 4.544642)",
+        "state": 24
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 289,
+    "fields": {
+        "location": "Lafia",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.491667 8.516667)",
+        "state": 26
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 290,
+    "fields": {
+        "location": "Minna",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.607761999999999 6.553394)",
+        "state": 27
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 291,
+    "fields": {
+        "location": "Abeokuta",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.160833 3.348333)",
+        "state": 28
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 292,
+    "fields": {
+        "location": "Akure",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.25 5.195)",
+        "state": 29
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 293,
+    "fields": {
+        "location": "Oshogbo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.765814 4.56122)",
+        "state": 30
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 294,
+    "fields": {
+        "location": "Ibadan",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.396389 3.916667)",
+        "state": 31
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 295,
+    "fields": {
+        "location": "Jos",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.933332999999999 8.883333)",
+        "state": 32
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 296,
+    "fields": {
+        "location": "Port Harcourt",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.784821 7.005453)",
+        "state": 33
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 297,
+    "fields": {
+        "location": "Jalingo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.9 11.366667)",
+        "state": 35
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 298,
+    "fields": {
+        "location": "Damaturu",
+        "alias": "",
+        "coord": "SRID=4326;POINT (11.74886 11.96603)",
+        "state": 36
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 299,
+    "fields": {
+        "location": "Gusau",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.162847 6.674504)",
+        "state": 37
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 300,
+    "fields": {
+        "location": "ABUAD",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.614545 5.232282)",
+        "state": 14
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 301,
+    "fields": {
+        "location": "ABSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.813285 7.39669)",
+        "state": 1
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 302,
+    "fields": {
+        "location": "AUN",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.631559 14.658782)",
+        "state": 3
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 303,
+    "fields": {
+        "location": "ATBU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.276474 9.795002999999999)",
+        "state": 6
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 304,
+    "fields": {
+        "location": "ADSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.775423 4.068108)",
+        "state": 3
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 305,
+    "fields": {
+        "location": "ABU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.066667000000001 8.550000000000001)",
+        "state": 19
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 306,
+    "fields": {
+        "location": "ANSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.275766 7.006839)",
+        "state": 5
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 307,
+    "fields": {
+        "location": "DELSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.996228 5.701647)",
+        "state": 11
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 308,
+    "fields": {
+        "location": "EBSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.324007 8.093586)",
+        "state": 12
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 309,
+    "fields": {
+        "location": "uniport",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.901914 6.91823)",
+        "state": 33
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 310,
+    "fields": {
+        "location": "UNN",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.86646 7.403616)",
+        "state": 15
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 311,
+    "fields": {
+        "location": "ESUT",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.452667 7.510333)",
+        "state": 15
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 312,
+    "fields": {
+        "location": "FUTA",
+        "alias": "",
+        "coord": "SRID=4326;POINT (7.297173 5.146065)",
+        "state": 29
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 313,
+    "fields": {
+        "location": "FUTO",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.384445 6.998964)",
+        "state": 17
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 314,
+    "fields": {
+        "location": "FUTMINNA",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.607761999999999 6.553394)",
+        "state": 27
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 315,
+    "fields": {
+        "location": "IMSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.503728 7.043795)",
+        "state": 17
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 316,
+    "fields": {
+        "location": "KADSU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (10.516667 7.433333)",
+        "state": 19
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 317,
+    "fields": {
+        "location": "KASU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12 8.516667)",
+        "state": 20
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 318,
+    "fields": {
+        "location": "LASU",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.469632 3.200564)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 319,
+    "fields": {
+        "location": "UniLag",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.516307 3.391811)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 320,
+    "fields": {
+        "location": "UniAbuja",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.066667000000001 7.483333)",
+        "state": 2
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 321,
+    "fields": {
+        "location": "UniBen",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.401018 5.622139)",
+        "state": 13
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 322,
+    "fields": {
+        "location": "UniCal",
+        "alias": "",
+        "coord": "SRID=4326;POINT (4.952407 8.340845)",
+        "state": 10
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 323,
+    "fields": {
+        "location": "UniIlorin",
+        "alias": "",
+        "coord": "SRID=4326;POINT (8.491656000000001 4.544699)",
+        "state": 24
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 324,
+    "fields": {
+        "location": "UniJos",
+        "alias": "",
+        "coord": "SRID=4326;POINT (9.950328000000001 8.889357)",
+        "state": 32
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 325,
+    "fields": {
+        "location": "UniUyo",
+        "alias": "",
+        "coord": "SRID=4326;POINT (5.040844 7.976804)",
+        "state": 4
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 326,
+    "fields": {
+        "location": "MMII",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.574722 3.318611)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 327,
+    "fields": {
+        "location": "MM 2",
+        "alias": "",
+        "coord": "SRID=4326;POINT (6.574722 3.318611)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 328,
+    "fields": {
+        "location": "3rd Mainland",
+        "alias": "3rdMB",
+        "coord": "SRID=4326;POINT (6.502471 3.402141)",
+        "state": 25
+    }
+},
+{
+    "model": "webapp.location",
+    "pk": 329,
+    "fields": {
+        "location": "Chibok",
+        "alias": "",
+        "coord": "SRID=4326;POINT (12.12052 13.17403)",
+        "state": 9
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 1,
+    "fields": {
+        "tag": "Fighting",
+        "synonyms": "riot,fight,batt,combat,attack,clash,assault,violence,beat",
+        "desc": "There has been clashes or fights here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 2,
+    "fields": {
+        "tag": "Death",
+        "synonyms": "kill,dead,died,suicide,strangle,drown",
+        "desc": "Someone has been killed here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 3,
+    "fields": {
+        "tag": "Flood",
+        "synonyms": "flood,rain,deluge",
+        "desc": "This place is flooded"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 4,
+    "fields": {
+        "tag": "Fire",
+        "synonyms": "fire,inferno,conflagration,burn,incenerate",
+        "desc": "There is a burning structure here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 5,
+    "fields": {
+        "tag": "Collapse",
+        "synonyms": "collapse,tumble,crumble",
+        "desc": "A structure has just collapsed"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 6,
+    "fields": {
+        "tag": "Traffic",
+        "synonyms": "jam,holdup,hold up,bumper,standstill",
+        "desc": "There is traffic report here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 7,
+    "fields": {
+        "tag": "Bomb",
+        "synonyms": "bomb,detonat,blast",
+        "desc": "There has been a reported blast here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 8,
+    "fields": {
+        "tag": "Strike",
+        "synonyms": "strike,protest,march",
+        "desc": "Reported as a protest venue"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 9,
+    "fields": {
+        "tag": "Accident",
+        "synonyms": "accident,crash,wreck,broke down,broken down",
+        "desc": "An accident has been reported here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 10,
+    "fields": {
+        "tag": "Robbery",
+        "synonyms": "robbery,rob,stole",
+        "desc": "There has been a robbery here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 11,
+    "fields": {
+        "tag": "Rape",
+        "synonyms": "rape,molest",
+        "desc": "A rape incident has been reported here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 12,
+    "fields": {
+        "tag": "Shootings",
+        "synonyms": "shot,shooting,gun",
+        "desc": "There has been reported shooting here"
+    }
+},
+{
+    "model": "webapp.eventtag",
+    "pk": 13,
+    "fields": {
+        "tag": "Terrorists",
+        "synonyms": "terror,boko,qaeda,kidnap,abduct,hijack,BringBackOurGirls",
+        "desc": "There has been a Terrorist Attack here"
+    }
+}
+]
